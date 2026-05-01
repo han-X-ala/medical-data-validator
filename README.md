@@ -1,2 +1,13 @@
-# medical-data-validator
-Python project to validate medical records using regex and data validation techniques.
+# Medical Data Validator
+
+This project validates medical records using Python.
+
+## Features
+- Validates patient ID using regex
+- Checks age, gender, diagnosis
+- Detects invalid records
+- Prints detailed error messages
+
+## Technologies
+- Python
+- Regex (re module)
